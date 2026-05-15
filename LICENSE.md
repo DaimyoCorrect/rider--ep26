@@ -1,4 +1,4 @@
-# 
+# JetBrains Rider for PC | JetBrains Rider for Windows new Script: code-formatting & debugger is the best JetBrains Rider for PC | JetBrains Rider for Windows script, featuring
 
 
 
